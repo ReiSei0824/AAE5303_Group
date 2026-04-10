@@ -11,7 +11,7 @@ As it going, only me.
 - **Name:** DU Jiayi Rachel
 - **About Me:** Otaku
 - **(individual) Assignment 1:** https://github.com/ReiSei0824/Assignment1_25005153G
-- **(individual) Assignment 2:** [GitHub repo link]
+- **(individual) Assignment 2:** https://github.com/ReiSei0824/AAE5303-Assignment2-25005153G
 - **Photo (Optional):** [You can add a photo link or emoji here if you want!]
 
 ### Member 2
